@@ -35,16 +35,6 @@ Any external resources triggering **ServerEvents** handled by this resource (**p
 
 All custom sounds must be in the **“.ogg”** format. Online converters can be used to format files this way. Place all custom sounds in the **“html/sounds/”** folder in the **"playcustomsounds"** resource folder.
 
-Next, open **“fxmanifest.lua”** and ensure you declare the file:
-
-  
-
-![](https://lh6.googleusercontent.com/VadCduSgBBieZDQv9qBitvG2Sv9rMHVdqK6reRfIGxS-nwUB2FgBoKvEakfgHtb7auZuIvq5AYTc6GNyIt1FFHTJ9c4OW1TMlXX5KBcKucISsmKKlIxSoEZKeDwBeReghHj0MjtH)
-
-  
-
-The full destination must be added including **”html/sounds/example.ogg.”**
-
 
 ## 3. Triggering Custom Sounds
 
