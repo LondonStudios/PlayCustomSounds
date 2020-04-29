@@ -1,3 +1,5 @@
+![PlayCustomSounds Banner](https://i.ibb.co/wCVs2YR/Play-Custom-Sounds-Banner-jpg-3267.png)
+
 # Play Custom Sounds - London Studios
 
 **PlayCustomSounds** is a standalone C# FiveM Resource allowing you to play **external sounds** in your FiveM server from other resources and scripts. Four main functions:
