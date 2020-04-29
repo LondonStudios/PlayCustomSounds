@@ -15,5 +15,6 @@ files {
     -- List sound files:
     -- Files must be in html/sounds/
     -- Files must be in .ogg format
+    -- Remember to add a comma after,
     'html/sounds/example.ogg'
 }
