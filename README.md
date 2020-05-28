@@ -131,7 +131,7 @@ positionX, positionY, positionZ = Floats, soundRadius = Float, soundFile = Strin
 
 **Example:**
 
-    TriggerServerEvent(“Server:SoundToRadius”, positionX, positionY, positionZ, 20.0f, “example”, 1.0f);
+    TriggerServerEvent(“Server:SoundToCoords”, positionX, positionY, positionZ, 20.0f, “example”, 1.0f);
 
 (Note: The f after 1.0 is used in C# programming to declare a float.)
 
